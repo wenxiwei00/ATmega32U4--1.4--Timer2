@@ -7,6 +7,7 @@
 ####  最终效果  
 通过调整main.c里面的变量percentage，可以改变duty cycle，从而可以控制LED的亮暗程度
 ####  参考资料  
+可以找到如何设置Timer mode，如何设置pre-scaler...  
 https://medesign.seas.upenn.edu/index.php/Guides/MaEvArM-timer3
 
 
